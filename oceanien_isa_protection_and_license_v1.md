@@ -1,49 +1,67 @@
-﻿# OCEANIEN und ISA – Schutzumfang und Lizenz V1.0
+# OCEANIEN und ISA – Schutzumfang und Lizenz V1.0
+© Astrit Arifi – Arifi International e Stores  
+Brandäuliweg 2b, 6315 Oberägeri, Schweiz  
+E-Mail: info@oceanien.ch  
 
-## Inhaber
-**Astrit Arifi**  
-Arifi International e Stores  
-Brandäuliweg 2b  
-6315 Oberägeri  
-Schweiz  
-E-Mail: info@oceanien.ch
+Dieses Repository stellt eine öffentliche Vorveröffentlichung („Prior Art“)  
+der vollständigen, proprietären technischen Architektur von OCEANIEN und ISA dar.  
+Alle Rechte bleiben beim Inhaber.
 
-## Schutzumfang
-Diese Lizenz gilt für:
+---
 
-- die gesamte OCEANIEN Deterministic Commerce Architektur  
-- die ISA Meta KI mit zehn Governance Schichten  
-- die Single Manufacturer und Single Merchant Struktur  
-- die Hersteller- und Händler-Wartelisten  
-- die globale RCI Preisfairness Logik  
-- das Netz aus lokalen KIs in bis zu fünfzig Ländern  
-- das globale Markt-Gleichgewichtssystem  
-- das Kommunikationsmodell zwischen ISA und lokalen KIs  
-- den Deterministic Commerce Standard DCS 1.0  
-- sämtliche technischen, regulatorischen, logischen und strukturellen Elemente dieses Systems  
+## 1. Schutzumfang
 
-## Verbotene Nutzung
-Ohne ausdrückliche schriftliche Zustimmung von Astrit Arifi ist Dritten vollständig untersagt:
+Diese Lizenz umfasst die vollständige technische, strukturelle und logische Architektur von:
 
-- jede Nutzung, Reproduktion oder Implementierung  
-- jeder teilweise oder vollständige Nachbau  
-- jede technische oder funktionale Gleichwertigkeit  
-- jede Entwicklung abgeleiteter Systeme  
-- jede Implementierung der beschriebenen Governance Strukturen  
-- jede Nutzung der Konzepte für eigene Produkte, Plattformen oder KI-Systeme  
-- jede Analyse, Forschung, Reverse Engineering oder technische Untersuchung  
-- jegliche kommerzielle oder nicht-kommerzielle Verwendung  
+• OCEANIEN Deterministic Commerce System  
+• ISA Meta-KI (10 Governance-Schichten)  
+• Single-Manufacturer-Logik  
+• Single-Merchant-Logik  
+• Händler- und Hersteller-Wartelistenmechanik  
+• RCI Preisfairness-System  
+• Globales KI-Marktgleichgewicht  
+• 50-Länder-KI-Netzwerk  
+• Kommunikationsarchitektur zwischen ISA und lokalen KIs  
+• Deterministic Commerce Standard (DCS 1.0)  
+• Sämtliche technischen, regulatorischen, infrastrukturellen Elemente  
+• Jede Form der operativen Funktionslogik von ISA
 
-## Einsichtnahme
-Erlaubt ist ausschließlich:
+---
 
-- Einsicht durch den Inhaber  
-- Einsicht durch beauftragte Berater, Anwälte oder Behörden im Auftrag des Inhabers  
+## 2. Verbotene Nutzung
 
-Alle anderen Personen oder Organisationen sind ausgeschlossen.
+Ohne schriftliche Genehmigung von Astrit Arifi ist strengstens untersagt:
 
-## Rechtsvorbehalt
-Dieses Dokument dient als öffentliche Vorveröffentlichung und technischer Standard.  
-Es erzeugt weltweite Prior Art und verhindert, dass Dritte Patente, Schutzrechte oder Lizenzen auf gleichartige Systeme erheben.
+• jede Nutzung, Implementierung oder Reproduktion  
+• teilweiser oder vollständiger Nachbau  
+• Entwicklung funktional gleichwertiger Systeme  
+• Ableitungen, Forks, Re-Implementierungen  
+• Reverse Engineering, technische Analyse oder Forschung  
+• Integration in andere Plattformen, Produkte oder KI-Systeme  
+• jede kommerzielle oder nicht-kommerzielle Nutzung  
+• Nutzung der Konzepte, Standards oder der Governance-Schichten
 
-Alle Rechte bleiben bei Astrit Arifi und Arifi International e Stores.
+---
+
+## 3. Erlaubte Nutzung
+
+Zulässig ist ausschließlich:
+
+• Einsicht durch den Inhaber  
+• Einsicht durch beauftragte Berater, Anwälte oder Behörden im Auftrag des Inhabers  
+• Keine weitere Nutzung, Weitergabe oder Analyse ist erlaubt.
+
+---
+
+## 4. Rechtsvorbehalt und Prior Art
+
+• Dieses Dokument erzeugt weltweite Prior Art nach Patentrecht.  
+• Jeder Versuch, Patente, Schutzrechte oder Derivate auf diese Architektur anzumelden, ist ungültig.  
+• Jede Verletzung wird rechtlich verfolgt.
+
+---
+
+## 5. Copyright
+
+© Astrit Arifi – Arifi International e Stores.  
+Alle Rechte vorbehalten.
